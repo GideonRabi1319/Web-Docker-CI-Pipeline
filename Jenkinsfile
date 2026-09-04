@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKERHUB_CREDENTIALS = credentials('docker-hub-ps')
-        IMAGE_NAME = "gideonrabi1319/sports-booking"
+        IMAGE_NAME = "gideonrabi13/sports-booking"
         IMAGE_TAG  = "v${BUILD_NUMBER}"
     }
 
