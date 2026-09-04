@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏍️ ApexRiders — Premium Sports Bike Booking Platform
 
 A fully responsive, dark-themed superbike rental booking website — built with vanilla HTML/CSS/JS, containerized with Docker, and deployed with **Docker Swarm** for horizontal scalability.
@@ -142,3 +143,6 @@ GitHub: [@GideonRabi1319](https://github.com/GideonRabi1319)
 ## 📄 License
 
 This project is available for personal/portfolio use. Add a license of your choice (MIT recommended) if you plan to open it up further.
+=======
+# Web-Docker-CI-Pipeline
+>>>>>>> 12e08e98ec7264d13ec41fc9691e3a5ed28d5173
