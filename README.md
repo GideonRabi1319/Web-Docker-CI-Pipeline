@@ -117,7 +117,3 @@ docker run -d -p 8085:80 gideonrabi13/sports-booking:latest
 [GitHub](https://github.com/GideonRabi1319) · [LinkedIn](https://www.linkedin.com/in/gideonrabi1319/)
 
 ---
-
-## License
-
-This project is available for personal and portfolio use. A formal license (MIT recommended) can be added if the project is opened up for broader use.
