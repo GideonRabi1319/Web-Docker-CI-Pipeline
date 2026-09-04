@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  web:
+    image: gideonrabi1319/sports-booking:v1
+    deploy:
+      replicas: 3
+      restart_policy:
+        condition: on-failure
+    ports:
+      - "8085:80"
